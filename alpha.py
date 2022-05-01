@@ -69,10 +69,10 @@ print('''\r\n
 │     viewbot, comment liker, followbot, video liker  │
 └─────────────────────────────────────────────────────┘\r\n''')
 
-video = input('Video Link: ') # video link input
+video = input('Video Link: ') # https://www.tiktok.com/@bryce.adamz/video/7092587363519581482?is_copy_url=1&is_from_webapp=v1
 print("Solve the Captcha!") # captcha alert
 time.sleep(6) # just time sleep for people to read the captcha alert
-vid  = video # video link
+vid  = video # https://www.tiktok.com/@bryce.adamz/video/7092587363519581482?is_copy_url=1&is_from_webapp=v1
 os.system('cls||clear') # clearing command prompt
 
 if mode == 1:
